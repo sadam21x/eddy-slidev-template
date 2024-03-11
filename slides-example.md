@@ -7,7 +7,7 @@ theme: default
 colorSchema: dark
 layout: slides-cover
 highlighter: shiki
-lineNumbers: true
+lineNumbers: false
 monaco: true
 selectable: true
 presenter: true
