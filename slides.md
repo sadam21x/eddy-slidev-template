@@ -13,9 +13,9 @@ selectable: true
 presenter: true
 record: true
 download: true
-exportFilename: slides-export
+exportFilename: export
 export:
-  format: pdf
+  format: png
   timeout: 120000
   dark: true
   withClicks: false
