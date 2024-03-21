@@ -12,14 +12,7 @@ monaco: true
 selectable: true
 presenter: true
 record: true
-download: true
-exportFilename: export
-export:
-  format: png
-  timeout: 120000
-  dark: true
-  withClicks: false
-  withToc: false
+download: false
 
 transition: slide-left
 ---
